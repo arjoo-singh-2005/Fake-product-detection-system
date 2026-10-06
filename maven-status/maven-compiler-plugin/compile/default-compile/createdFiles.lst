@@ -1,0 +1,13 @@
+com\fakeproductdetectionsystem\qr\QRDisplayFrame.class
+com\fakeproductdetectionsystem\QRTest.class
+com\fakeproductdetectionsystem\Main.class
+com\fakeproductdetectionsystem\ui\MainFrame.class
+com\fakeproductdetectionsystem\ui\VerifyProductFrame.class
+com\fakeproductdetectionsystem\ui\HistoryFrame.class
+com\fakeproductdetectionsystem\ui\ProductListFrame.class
+com\fakeproductdetectionsystem\db\DatabaseConnection.class
+com\fakeproductdetectionsystem\dao\ProductDAO.class
+com\fakeproductdetectionsystem\ui\AdminFrame.class
+com\fakeproductdetectionsystem\qr\QRCodeGenerator.class
+com\fakeproductdetectionsystem\ui\LoginFrame.class
+com\fakeproductdetectionsystem\model\Product.class
